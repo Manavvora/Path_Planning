@@ -1,3 +1,4 @@
+#Code for dynamics of dubins car
 import sys
 import pathlib
 sys.path.append(str(pathlib.Path(__file__).parent.parent.parent))

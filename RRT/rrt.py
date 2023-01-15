@@ -1,3 +1,4 @@
+#Code for RRT algorithm implemented for a point mass
 import math
 import random
 

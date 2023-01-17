@@ -5,3 +5,5 @@ This repository contains python implementation of various path planning algorith
 3. RRT for Dubins car
 4. RRT Star for point mass
 5. RRT Star for Dubins car
+6. AStar algorithm
+7. Potential Field planner
